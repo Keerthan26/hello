@@ -11,7 +11,7 @@ function myfun()
 }
 </script>
 </head>
-<body bgcolor="purple">
+<body bgcolor="blue">
 
 <center>
 <h1 style="color:red">Login form</h1>
