@@ -1,0 +1,37 @@
+ <!Doctype>
+<html>
+<head>
+<title>
+Login form
+</title>
+<script>
+function myfun()
+{
+ alert("you have been logined successfully");
+}
+</script>
+</head>
+<body bgcolor="purple">
+
+<center>
+<h1 style="color:red">Login form</h1>
+<img src="https://th.bing.com/th/id/OIP.FcmlNq941J04guCFeZOgOgHaHa?w=168&h=180&c=7&r=0&o=5&pid=1.7">
+</center>
+<center>
+<br>
+<form name="Register" onclick="myfun()">
+enter your name:
+<input type="text" name="name" required><br><br>
+enter password:
+<input type="password" name="password"required><br><br>
+<br>
+<input type="submit" value="Login">
+
+</form>
+</center>
+</body>
+</html>
+
+
+
+
